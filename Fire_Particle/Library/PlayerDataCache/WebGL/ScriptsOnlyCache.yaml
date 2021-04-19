@@ -31,7 +31,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
   sceneClasses:
-    Assets/Scenes/Fire Particle.unity:
+    Assets/Scenes/Fire_Particle.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -49,15 +49,15 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11286}
+      Script: {instanceID: 15352}
     - Class: 114
-      Script: {instanceID: 11628}
+      Script: {instanceID: 15692}
     - Class: 114
-      Script: {instanceID: 12294}
+      Script: {instanceID: 16350}
     - Class: 114
-      Script: {instanceID: 13762}
+      Script: {instanceID: 17796}
     - Class: 114
-      Script: {instanceID: 14374}
+      Script: {instanceID: 18402}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -563,5 +563,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 20
   scenePathNames:
-  - Assets/Scenes/Fire Particle.unity
+  - Assets/Scenes/Fire_Particle.unity
   playerPath: D:/Unity/Unity_Fire_Particle/Build
